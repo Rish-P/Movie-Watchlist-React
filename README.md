@@ -1,6 +1,13 @@
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Frameworks/Technologies used
+
+ReactJS as the core framework
+Context API and React Hooks for the state management in the application.
 
 ## Available Scripts
 
